@@ -1,0 +1,9 @@
+{
+    "welcome": "commands.Welcome",
+    "mint": "commands.mint_theme_command",
+    "matrix": "commands.matrix_theme",
+        "neon": "commands.neon_theme",
+        "midnight": "commands.midnight_theme",
+    "help": "commands.help",
+    "vs": "commands.vs_command"
+}

@@ -11,7 +11,7 @@ with open(commands_path, encoding="utf-8") as f:
 
 
 def main(): 
-    print("Kip CLI is ready! Type the command \"welcome\" to get started.🐼")
+    print("Kip CLI is ready! Type the command \"welcome\" to start!🐼")
     while True:
         user_input = input(">>> ").strip().split()
         if not user_input:
